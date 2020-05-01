@@ -1,0 +1,12 @@
+## HTML Page
+First I created index page with all the main sections that I wanted in my portfolio. I also decided that I will have few clickable elements using GET and POST APIs for the contact section.
+
+## CSS
+I used the idea from a template with black layout using bootstrap and font awesome styling, micons and lora fonts
+
+## JS
+I used Get API for the 'DOWNLOAD.CV'
+I used Get API to get data from github api
+I used Post Api to submit a contact form (results are consol.logged)
+I also tried to separate files in import/export as well as classes but unfortunately my browser gives me error so I just coomented those fields
+
